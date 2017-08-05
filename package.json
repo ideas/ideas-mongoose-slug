@@ -1,0 +1,46 @@
+{
+  "bugs": {
+    "url": "https://github.com/tuxpiper/mongoose-slug/issues"
+  },
+  "dependencies": {
+    "joi": "6.x.x",
+    "lodash": "3.x.x",
+    "slug": "0.9.x"
+  },
+  "description": "A Mongoose plugin that populates schema with a slug.",
+  "devDependencies": {
+    "code": "1.x.x",
+    "lab": "5.x.x",
+    "mongoose": "3.x.x"
+  },
+  "directories": {},
+  "gitHead": "37266f6bd6df7b43c12a186a49416f1daecbf5e2",
+  "homepage": "https://github.com/tuxpiper/mongoose-slug#readme",
+  "installable": true,
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "slug"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "tuxpiper",
+      "email": "infoideas.com"
+    }
+  ],
+  "name": "ideas/mongoose-slug",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "mongoose": "3.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxpiper/mongoose-slug.git"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 --coverage-path 'src' -v"
+  },
+  "version": "0.0.1"
+}
