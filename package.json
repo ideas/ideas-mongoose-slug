@@ -30,7 +30,7 @@
       "email": "infoideas.com"
     }
   ],
-  "name": "ideas/mongoose-slug",
+  "name": "ideas-mongoose-slug",
   "optionalDependencies": {},
   "peerDependencies": {
     "mongoose": "3.x.x"
